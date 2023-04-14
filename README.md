@@ -4,6 +4,7 @@
 <br/>
 
 ```
+{
 name: Do Heejung
 located_in: Seoul, Korea
 
@@ -17,6 +18,7 @@ currently_learning: ["TypeScript", "Nuxt.js"]
 hobbies: ["reading", "Gaming", "swimming"]
 
 2023 Goals: ["Create 4 Projects", "Keep Learning "]
+}
 ```
 
 <br/>
@@ -45,8 +47,7 @@ hobbies: ["reading", "Gaming", "swimming"]
 
 ## 🔥 Stats<br/>
 <br/>
-<!-- <span><a href="https://github.com/doeezy"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=doeezy&layout=compact&theme=dark&title_color=fff&text_color=fff" /></a></span> -->
-<span><a href="https://github.com/doeezy"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=doeezy&theme=dark&title_color=fff&text_color=fff" /></a></span>
+<span><a href="https://github.com/doeezy"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=doeezy&layout=compact&theme=dark&title_color=fff&text_color=fff&langs_count=8&hide=css" /></a></span>
 <br/>
 <br/>
 <span><a href="https://github.com/doeezy"><img align="center" src="https://github-readme-stats.vercel.app/api?username=doeezy&show_icons=true&include_all_commits=true&&theme=dark&title_color=fff&text_color=fff" alt="DOEEZY's github stats" /></a></span>
