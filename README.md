@@ -21,6 +21,9 @@ hobbies: ["reading", "Gaming", "swimming"]
 }
 ```
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <br/>
 
 ## 👩‍💻 Languages and Tools<br/>
