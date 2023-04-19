@@ -22,20 +22,6 @@ hobbies: ["reading", "Gaming", "swimming"]
 ```
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-12%20hrs%207%20mins-blue)
-
-**🐱 My GitHub Data** 
-
-> 📦 158.2 kB Used in GitHub's Storage 
- > 
-> 🏆 145 Contributions in the Year 2023
- > 
-> 💼 Opted to Hire
- > 
-> 📜 5 Public Repositories 
- > 
-> 🔑 4 Private Repositories 
- > 
 **I'm an Early 🐤** 
 
 ```text
@@ -45,28 +31,6 @@ hobbies: ["reading", "Gaming", "swimming"]
 🌙 Night                  9 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
 ```
 
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Seoul
-
-💬 Programming Languages: 
-Vue.js                   6 hrs 17 mins       █████████████░░░░░░░░░░░░   51.95 % 
-Java                     2 hrs 25 mins       █████░░░░░░░░░░░░░░░░░░░░   19.95 % 
-YAML                     1 hr 8 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.42 % 
-JavaScript               38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.34 % 
-JSON                     26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 % 
-
-🔥 Editors: 
-IntelliJ                 12 hrs 7 mins       █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Windows                  12 hrs 7 mins       █████████████████████████   100.00 % 
-```
-
-
- Last Updated on 18/04/2023 18:36:08 UTC
 <!--END_SECTION:waka-->
 
 <br/>
