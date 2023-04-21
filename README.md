@@ -22,26 +22,14 @@ hobbies: ["reading", "Gaming", "swimming"]
 ```
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-26%20hrs%203%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-29%20hrs%2018%20mins-blue)
 
-**🐱 My GitHub Data** 
-
-> 📦 153.0 kB Used in GitHub's Storage 
- > 
-> 🏆 133 Contributions in the Year 2023
- > 
-> 💼 Opted to Hire
- > 
-> 📜 5 Public Repositories 
- > 
-> 🔑 4 Private Repositories 
- > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                2615 commits        ███████░░░░░░░░░░░░░░░░░░   27.89 % 
-🌆 Daytime                6172 commits        ████████████████░░░░░░░░░   65.83 % 
-🌃 Evening                579 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.18 % 
+🌞 Morning                2625 commits        ███████░░░░░░░░░░░░░░░░░░   27.93 % 
+🌆 Daytime                6186 commits        ████████████████░░░░░░░░░   65.82 % 
+🌃 Evening                579 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.16 % 
 🌙 Night                  9 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
 ```
 
@@ -66,7 +54,7 @@ Windows                  26 hrs 3 mins       ███████████�
 ```
 
 
- Last Updated on 20/04/2023 18:36:47 UTC
+ Last Updated on 21/04/2023 05:49:01 UTC
 <!--END_SECTION:waka-->
 
 <br/>
