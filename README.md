@@ -52,7 +52,7 @@ hobbies: ["reading", "Gaming", "swimming"]
   
  ## 👀 Used at least once<br/>
   <br/>
-  <span><img src="https://img.shields.io/badge/TypeScipt-3178C6?style=flat&logo=TypeScipt&logoColor=white"/></span>
+  <span><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/></span>
   <span><img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js&logoColor=white"/></span>
   <span><img src="https://img.shields.io/badge/Nuxt.js-00DC82?style=flat&logo=Nuxt.js&logoColor=white"/></span> 
   <span><img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=Amazon AWS&logoColor=white"/></span> 
