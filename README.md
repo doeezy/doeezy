@@ -67,7 +67,4 @@ hobbies: ["reading", "Gaming", "swimming"]
 <span><a href="https://github.com/doeezy"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=doeezy&layout=compact&theme=dark&title_color=fff&text_color=fff&langs_count=8&hide=css" /></a></span>
 <br/>
 <br/>
-<span><a href="https://github.com/doeezy"><img align="center" src="https://github-readme-stats.vercel.app/api?username=doeezy&show_icons=true&include_all_commits=true&&theme=dark&title_color=fff&text_color=fff" alt="DOEEZY's github stats" /></a></span>
-<br/>
-<br/>
 <span><a href="https://github.com/doeezy"><img align="center" style="height:180px" src="http://github-readme-streak-stats.herokuapp.com?user=doeezy&theme=sea&hide_border=true&background=45%2C7F6ADE%2CA5BFFF&stroke=EBEBEB&sideLabels=FFF146&ring=FFF146&fire=FFF146&currStreakLabel=FFF146"/></a></span>
