@@ -15,8 +15,6 @@ technical_background: [
 ]
 currently_learning: ["TypeScript", "Next.js", "React"]
 
-hobbies: ["reading", "Gaming", "swimming"]
-
 2023 Goals: ["Create 4 Projects", "Keep Learning "]
 }
 ```
@@ -66,5 +64,7 @@ hobbies: ["reading", "Gaming", "swimming"]
 <br/>
 <span><a href="https://github.com/doeezy"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=doeezy&layout=compact&theme=dark&title_color=fff&text_color=fff&langs_count=8&hide=css" /></a></span>
 <br/>
+<!--
 <br/>
 <span><a href="https://github.com/doeezy"><img align="center" style="height:180px" src="http://github-readme-streak-stats.herokuapp.com?user=doeezy&theme=sea&hide_border=true&background=45%2C7F6ADE%2CA5BFFF&stroke=EBEBEB&sideLabels=FFF146&ring=FFF146&fire=FFF146&currStreakLabel=FFF146"/></a></span>
+-->
