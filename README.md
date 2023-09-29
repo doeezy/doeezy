@@ -31,7 +31,7 @@ currently_learning: ["TypeScript", "Next.js", "React"]
 
 
 
- Last Updated on 28/09/2023 18:39:56 UTC
+ Last Updated on 29/09/2023 18:39:33 UTC
 <!--END_SECTION:waka-->
 
 <br/>
