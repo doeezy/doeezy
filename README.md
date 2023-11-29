@@ -13,9 +13,9 @@ technical_background: [
   "Web Developer - Mobigen, 2021.07 ~ ing",
   "Web Developer - EcPlaza, 2020.06 ~ 2021.07" 
 ]
-currently_learning: ["TypeScript", "Next.js", "React"]
+currently_learning: ["TypeScript", "React"]
 
-2023 Goals: ["Create 4 Projects", "Keep Learning "]
+2023 Goals: ["Keep Learning "]
 }
 ```
 
