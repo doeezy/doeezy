@@ -3,22 +3,6 @@
 # :raising_hand: Hi, there
 <br/>
 
-```
-{
-name: Do Heejung
-located_in: Seoul, Korea
-
-current_job: Web Developer
-technical_background: [
-  "Web Developer - Mobigen, 2021.07 ~ ing",
-  "Web Developer - EcPlaza, 2020.06 ~ 2021.07" 
-]
-currently_learning: ["TypeScript", "React"]
-
-2023 Goals: ["Keep Learning "]
-}
-```
-
 <!--START_SECTION:waka-->
 **I'm an Early 🐤** 
 
